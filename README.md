@@ -12,11 +12,8 @@ The goal of this project is to develop a predictive model that estimates the lik
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contact](#Contact)
 
 ## 📊 Dataset
 
