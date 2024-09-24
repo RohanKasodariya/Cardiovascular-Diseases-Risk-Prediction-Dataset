@@ -8,11 +8,11 @@ The goal of this project is to develop a predictive model that estimates the lik
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
-- [Dataset](#dataset)
-- [Modeling Approach](#modeling-approach)
-- [Prerequisites](#prerequisites)
-- [Future Work](#future-work)
-- [Contact](#Contact)
+- [Dataset](#-dataset)
+- [Modeling Approach](#-modeling-approach)
+- [Prerequisites](#-prerequisites)
+- [Future Work](#-future-work)
+- [Contact](#-Contact)
 
 ## 📊 Dataset
 
